@@ -4,7 +4,7 @@ public class PersonMain {
 
 	public static void main(String[] args) {
 
-		// Person 클래스의 인스턴스 생성
+		// Person 클래스의 인스턴스 생성.
 		Person p = new Person();
 
 		// p.memberName = "김성준";
