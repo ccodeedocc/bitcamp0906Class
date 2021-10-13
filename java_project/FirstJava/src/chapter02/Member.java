@@ -3,7 +3,7 @@ package chapter02;
 public class Member {
 
 	/*
-	 ① String 타입의 이름을 저장할 수 있는 변수 name을 정의해봅시다..
+	 ① String 타입의 이름을 저장할 수 있는 변수 name을 정의해봅시다.
 	 ② int 타입의 나이를 저장할 수 있는 변수 age를 정의해봅시다.
 	 ③ double 타입의 키를 저장할 수 있는 변수 height를 정의해봅시다.
 	 ④ boolean 타입의 JAVA책의 보유 여부를 저장할 수 있는 변수 hasBook를 정의해봅시다.
